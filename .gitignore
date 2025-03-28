@@ -1,2 +1,6 @@
 node_modules
 .DS_Store
+
+# sample files
+sample_qiita.md
+sample_zenn.md
