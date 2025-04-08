@@ -1,5 +1,5 @@
 ---
-title: MCPサーバーのTool名の"-"と"_"でハマった話
+title: MCPサーバーのTool名のハイフン"-"とアンダースコア"_"でハマった話
 tags:
   - JavaScript
   - MCP
