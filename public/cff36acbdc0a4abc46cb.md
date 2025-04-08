@@ -5,7 +5,7 @@ tags:
   - MCP
   - cursor
 private: false
-updated_at: '2025-04-08T14:29:33+09:00'
+updated_at: '2025-04-08T14:37:40+09:00'
 id: cff36acbdc0a4abc46cb
 organization_url_name: null
 slide: false
