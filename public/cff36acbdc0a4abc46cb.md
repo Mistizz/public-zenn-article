@@ -57,7 +57,7 @@ https://github.com/Mistizz/mcp-JapaneseTextAnalyzer
 
 # まとめ
 
-MCPのTool名は、アンダースコア`-`で！
+MCPのTool名は、アンダースコア`_`で！
 同じようにハマっている人の一助になれば幸いです。
 
 
